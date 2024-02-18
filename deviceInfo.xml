@@ -1,0 +1,11 @@
+<Creator xsi:type="Device_t">
+  <Name>Forerunner 955 Solar</Name>
+  <UnitId>3432075985</UnitId>
+  <ProductID>4024</ProductID>
+  <Version>
+    <VersionMajor>17</VersionMajor>
+    <VersionMinor>26</VersionMinor>
+    <BuildMajor>0</BuildMajor>
+    <BuildMinor>0</BuildMinor>
+  </Version>
+</Creator>
